@@ -1,8 +1,8 @@
 {
-  "id": "one_more",
-  "name": "OneMore",
-  "tagline": "Haz siempre una más",
-  "description": "La app de gimnasio definitiva. Crea y personaliza tus rutinas, registra tus pesos y repeticiones y sigue tu progreso día tras día. Controla también tus pasos, calorías y actividad diaria. Completa desafíos, consigue monedas y desbloquea fondos y objetos exclusivos de personalización para tu perfil.",
+  "id": "onotes",
+  "name": "Onotes",
+  "tagline": "Tus notas, siempre contigo",
+  "description": "Organiza tus ideas, tareas y recordatorios en un solo lugar. Crea y edita notas con herramientas avanzadas de formato, incluyendo colores, negrita, subrayado, listas, numeraciones, casillas de verificación e imágenes. Protege tu información cifrando notas con una contraseña única o una clave maestra, y archiva aquellas que no necesites tener a la vista. Todo lo que necesitas para escribir, organizar y mantener tus notas seguras.",
   "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Logo/LogoOneMore.png",
   "version": "1.6.0",
   "downloads": "50K+",
